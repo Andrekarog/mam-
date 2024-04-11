@@ -1,0 +1,18 @@
+
+
+    body {
+        background-image: url('IMG_4660.JPEG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 375px; /* iPhone 12 width */
+    height: 812px; /* iPhone 12 height */
+    margin: 0;
+    padding: 0;}
+   
+       
+p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: xx-large;
+position: center;
+    background-color: rgba(0, 255, 255, 0.219);
+    text-align: center;
+}
+
